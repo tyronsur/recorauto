@@ -1,0 +1,56 @@
+{
+"version": "4.2",
+"lang" : "es",
+"name" : "R.O.A. v0.0.1",
+"scope" : "http://192.168.1.132/recorauto/public/",
+"display" : "standalone",
+"start_url" : "http://192.168.1.132/recorauto/public/",
+"short_name" : "RECORAUTO",
+"description" : "",
+"orientation" : "portrait",
+"background_color": "#FFFFFF",
+"theme_color": "#FFFFFF",
+"generated" : "true",
+  "icons": [
+    {
+      "src": "app/icons/logo.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "app/icons/logo.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "app/icons/logo.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "app/icons/logo.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "app/icons/logo.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "app/icons/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "app/icons/logo.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "app/icons/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
