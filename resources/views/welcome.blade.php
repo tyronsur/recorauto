@@ -7,7 +7,7 @@
 
 
 <div class="row text-center mb-0">
-<a href="#" data-menu="coming-soon" class="col-6 pe-0">
+<a href="{{route('rutas.index')}}" data-menu="coming-soon" class="col-6 pe-0">
 <div class="card card-style me-2 mb-2">
 <i class="fa fa-road color-green-dark fa-3x mt-5"></i>
 <h1 class="pt-4">MI RUTA</h1>
