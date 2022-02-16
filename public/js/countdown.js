@@ -39,6 +39,6 @@ function countdownCall(){
         function display(days, hours, minutes, seconds) {}
     }
 
-    countdown('02/16/2022 9:15:00 AM');
+    countdown('02/16/2022 11:30:00 AM');
 }
 countdownCall();
