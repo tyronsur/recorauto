@@ -11,9 +11,9 @@
     <div class="content text-center">
     <i class="fa fa-clock fa-7x color-highlight mb-5"></i>
     <h1 class="font-36 font-800 mb-4">Proxima Ruta!</h1>
-    <p class="text-center">RUTA 1 [9:15 A 11:00]</p>
+    <p class="text-center">RUTA 5 [12:30 A 13:30]</p>
     <h3 class="text-center">
-        TORREDELCAMPO<br>TORREDONJIMENO<br>MARTOS<br>PORCUNA<br>ARJONA<br>ANDUJAR
+        MANCHA REAL
         </h3>
     <div class="countdown row mb-0 mt-5" style="background-color: rgb(238, 238, 238);">
     
